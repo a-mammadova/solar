@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Orbital Mechanics Simulator
 
 A Python implementation of orbital mechanics with gravitational forces, featuring realistic physics simulation and visualization.
@@ -43,3 +44,7 @@ The simulator uses real physical constants:
 - Astronomical unit: AU = 1.496e11 m
 - Earth mass: 5.972e24 kg
 - Sun mass: 1.989e30 kg
+=======
+# solar
+a simulation like thing of solar system for students or enthusiasts
+>>>>>>> 9781d7ac6368736bf30c6cfe2dabdce1ef7c3118
