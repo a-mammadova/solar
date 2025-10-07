@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Solar
 
 A Python implementation of orbital mechanics with gravitational forces, featuring realistic physics simulation and visualization.
@@ -6,11 +5,8 @@ A Python implementation of orbital mechanics with gravitational forces, featurin
 ## Features
 
 - **Realistic Physics**: Implements Newton's law of universal gravitation
-- **Multiple Bodies**: Support for N-body gravitational interactions
-- **Stable Integration**: Uses Verlet integration for accurate orbital mechanics
-- **Visualization**: 2D plotting with trajectory tracking
-- **Energy Conservation**: Tracks orbital energy and angular momentum
-- **Customizable**: Easy to create custom celestial body systems
+- **Visualization**: plotting with trajectory tracking
+- **Educational thingies**: 
 
 
 ### Gravitational Force
